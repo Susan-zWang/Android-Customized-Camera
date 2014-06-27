@@ -1,9 +1,5 @@
 Android-Customized-Camera
 =========================
-An android app that takes pictures in a very fast rate 
-=========================
-
-
 
 ```javascript
 Files modified: 
